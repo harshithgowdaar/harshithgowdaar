@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I'm currently studying Btech in CSE and working on strengthening my skills<br>🤝 I'm looking for help with Open Source Contributions<br>🌱 I'm currently learning Python, Java, DSA, Git/GitHub, and AIML<br>⚡ Fun fact: I believe consistency beats talent when learning technology
+<br>🔭 I'm currently studying Btech in CSE and working on strengthening my skills<br>🤝 I'm looking for help with Open Source Contributions<br>🌱 I'm currently learning Python, Git/GitHub, and AIML<br>⚡ Fun fact: I believe consistency beats talent when learning technology
 
 
 ## 🌐 Socials:
