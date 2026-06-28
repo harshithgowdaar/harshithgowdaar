@@ -1,18 +1,137 @@
-# 💫 About Me:
-<br>🔭 I'm currently studying Btech in CSE and working on strengthening my skills<br>🤝 I'm looking for help with Open Source Contributions<br>🌱 I'm currently learning Python, Git/GitHub, and AIML<br>⚡ Fun fact: I believe consistency beats talent when learning technology
+<h1 align="center">Hi 👋, I'm Harshith Gowda A R</h1>
+<h3 align="center">CSE Student • AI/ML Enthusiast • Python Developer</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+Projects+Every+Week;Learning+AI+%26+Machine+Learning;Python+%7C+Java+%7C+C%2B%2B;Future+Software+Engineer" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshithgowdaar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshith2007gowda@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harshithgowdaar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=harshithgowdaar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshithgowdaar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harshithgowdaar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=harshithgowdaar&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Student
+
+🌱 Currently learning **Python, Java, Git/GitHub, AI & Machine Learning**
+
+💻 Building Python projects to strengthen my programming skills
+
+🤝 Looking to contribute to Open Source
+
+📚 Learning Data Structures & Problem Solving
+
+🎯 Goal: Become an AI/ML Engineer and build impactful software
+
+⚡ **Consistency > Motivation**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/harshithgowdaar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:harshith2007gowda@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### 📖 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧮 Calculator | Basic Calculator built using Python |
+| 📰 Fake Headline Generator | Generates random funny headlines |
+| 🚀 More Projects Coming Soon | Stay tuned... |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshithgowdaar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithgowdaar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=harshithgowdaar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshithgowdaar&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshithgowdaar&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Learn Data Structures & Algorithms
+- ✅ Build 30+ Python Projects
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
+
+---
+
+# 💬 Favorite Quote
+
+> **"Success isn't built in a day. It's built every day."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+</p>
